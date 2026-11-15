@@ -60,3 +60,6 @@ button:disabled {opacity:.55;cursor:not-allowed}
 .results-panel h2 {margin:0 0 10px}.results-panel p {margin:8px 0}
 :focus-visible {outline:3px solid #7650b3;outline-offset:3px}
 @media(max-width:600px){.question-card{padding:18px 14px}.quiz-toolbar{top:0}.quiz-actions button{width:100%}}
+
+/* ID selector: styles the welcome section identified in index.html. */
+#welcome-section { border-left: 4px solid var(--rose); padding-left: 20px; }
